@@ -1,2 +1,2 @@
 # Breakout
-Breakout game in C++(03) using SFML 1.6.
+Breakout game in C++ with SFML 1.6.
